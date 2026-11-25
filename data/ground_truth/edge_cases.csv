@@ -1,0 +1,6 @@
+issue_id,issue_type,description,ground_truth,expected_result
+EDGE-001,Duplicate Inbound,The same inbound purchase order is counted twice.,INVALID,Duplicate supply must be detected.
+EDGE-002,Unapproved Substitute SKU,An unapproved substitute SKU is used to satisfy demand.,INVALID,Unapproved substitution must be rejected.
+EDGE-003,Supplier Capacity Exceeded,The purchase order quantity exceeds supplier capacity.,INVALID,Capacity violation must be detected.
+EDGE-004,Missing Lead Time,Supply is considered without valid lead-time information.,INVALID,Supply timing must be flagged as uncertain.
+EDGE-005,UOM Mismatch,Demand and inventory use incompatible units.,INVALID,Unit conversion or validation is required.

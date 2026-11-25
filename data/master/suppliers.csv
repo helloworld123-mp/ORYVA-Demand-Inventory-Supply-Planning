@@ -1,0 +1,11 @@
+supplier_id,supplier_name,contact_email,status
+SUP-000001,Supplier 1,supplier1@example.com,Active
+SUP-000002,Supplier 2,supplier2@example.com,Active
+SUP-000003,Supplier 3,supplier3@example.com,Active
+SUP-000004,Supplier 4,supplier4@example.com,Active
+SUP-000005,Supplier 5,supplier5@example.com,Active
+SUP-000006,Supplier 6,supplier6@example.com,Active
+SUP-000007,Supplier 7,supplier7@example.com,Active
+SUP-000008,Supplier 8,supplier8@example.com,Active
+SUP-000009,Supplier 9,supplier9@example.com,Active
+SUP-000010,Supplier 10,supplier10@example.com,Active

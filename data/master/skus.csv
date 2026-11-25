@@ -1,0 +1,11 @@
+sku_id,product_name,category,unit,status
+SKU-000001,Product 1,Electronics,BOX,Active
+SKU-000002,Product 2,Furniture,KG,Active
+SKU-000003,Product 3,Food,PCS,Active
+SKU-000004,Product 4,Furniture,KG,Active
+SKU-000005,Product 5,Furniture,BOX,Active
+SKU-000006,Product 6,Electronics,PCS,Active
+SKU-000007,Product 7,Electronics,KG,Active
+SKU-000008,Product 8,Clothing,PCS,Active
+SKU-000009,Product 9,Electronics,PCS,Active
+SKU-000010,Product 10,Food,PCS,Active

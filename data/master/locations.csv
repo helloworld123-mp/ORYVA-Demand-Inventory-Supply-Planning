@@ -1,0 +1,4 @@
+location_id,location_name,city,state,status
+LOC-000001,Warehouse 1,Bengaluru,Karnataka,Active
+LOC-000002,Warehouse 2,Chennai,Tamil Nadu,Active
+LOC-000003,Warehouse 3,Mumbai,Maharashtra,Active
